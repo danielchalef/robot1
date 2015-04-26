@@ -20,4 +20,4 @@ The bits and pieces:
 - a pan/tilt kit, with plenty of spare 9g servos.
 - an HB200A microwave sensor
 - soon to be delivered Kinect to be used as an RGB-D sensor
-- a bunch of other cool sensors, including proximity, temp & humidity, IR, fire & gas, several mini breadboards, a soldering iron and a load of electronics bits & pieces.
+- a bunch of other cool sensors, including HC-SR04 sonars, proximity, temp & humidity, IR, fire & gas, several mini breadboards, a soldering iron and a load of electronics bits & pieces.
