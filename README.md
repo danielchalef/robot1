@@ -4,6 +4,7 @@ robot1 is my first attempt at a neato platformed, ros-controlled robot. Yes, the
 Completed:
 - removed innards of neato
 - got the neato platform running as a ROS node thanks to neato_robot running on a RPi2 (strapped inside the neato chassis). The LIDAR works well, and it's somewhat good at finding its way around.
+
 TODO:
 - get a hacked together OpenCV-based PiCAM facetracker installed on to the working as a ROS node (the facetracker already works as a standalone Pi/PC and Arduino project). Or utilize one of the several existing ROS RGB-D tracking nodes when my Kinect arrives)
 - add neato battery level as a ROS neato_node published topic.
