@@ -2,6 +2,9 @@
  * ROS Arduino controller for robot1
  * Daniel Chalef <daniel.chalef@gmail.com>
  *
+ * Current functionality:
+ *   * Driving two servos
+  *
  * Originally from: 
  * MockBotSerial Arduino  
  * Author: chrimo@moccy.xdsnet.de
